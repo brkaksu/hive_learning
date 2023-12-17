@@ -1,6 +1,6 @@
-# hive_learning
+# Hive Local Storage
 
-This project created for try and learn hive functions.
+Hive local storage project
 
 ## Getting Started
 
